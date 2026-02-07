@@ -1,4 +1,4 @@
-#wap to check the given year is leap year or not?
+# wap to check the given year is leap year or not?
 
 #include <stdio.h>
 
